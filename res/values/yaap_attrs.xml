@@ -49,4 +49,7 @@
         <attr name="dkey" format="string" />
         <attr name="dkeyNightOnly" format="boolean" />
     </declare-styleable>
+     
+     <!-- Package requirement constraint for overlay preferences -->
+    <attr name="requiresPackage" format="string" />
 </resources>
